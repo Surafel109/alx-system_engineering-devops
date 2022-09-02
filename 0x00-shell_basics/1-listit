@@ -1,5 +1,2 @@
 #!/bin/bash
-0-current_working_directory
-14-copy_html
-1-listit
-README.md
+ls
