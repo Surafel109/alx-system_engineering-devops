@@ -1,1 +1,2 @@
-Write a script that displays a confused smiley
+#!/bin/bash
+Write a script that prints “Hello, World”
